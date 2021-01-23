@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ThinkX</string>
+    <string name="Usernamelabel">Email</string>
+    <string name="PasswordLabel">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
 </resources>
