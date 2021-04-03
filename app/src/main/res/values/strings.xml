@@ -4,4 +4,14 @@
     <string name="PasswordLabel">Password</string>
     <string name="log_in">Log in</string>
     <string name="register">Register</string>
+    <string name="errorregister">Error Registering User</string>
+    <string name="successregister">User Registered Successfully</string>
+    <string name="title_activity_user">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_item">Add Item</string>
+    <string name="add">ADD</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_cost">Item Cost</string>
 </resources>

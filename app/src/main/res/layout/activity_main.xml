@@ -7,9 +7,21 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/ErrorInfo"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="110dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_height="wrap_content"
+        android:background="#E22323"
+        android:textColor="#FFFFFF"
+        android:text="Authentication Failed"
+        />
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/email"
-        android:layout_marginTop="110dp"
+        android:layout_marginTop="10dp"
         android:layout_marginStart="10dp"
         android:layout_marginEnd="10dp"
         android:layout_width="match_parent"
